@@ -12,7 +12,7 @@ const Socials: FC<SocialsProps> = props => {
         {
             aria: 'Linkedin',
             icon: <FiLinkedin />,
-            href: 'https://www.linkedin.com/in/qiyang-chen-5b5584210',
+            href: 'https://www.linkedin.com/in/rosiechen1005',
         },
         {
             aria: 'GitHub',
