@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrosiechen1005_github_io=self.webpackChunkrosiechen1005_github_io||[]).push([[980],{3980:function(e,i,c){e.exports=c.p+"static/media/bruinplanner.c6aa0eee978a68cb92d4.md"}}]);
